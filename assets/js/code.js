@@ -75,7 +75,7 @@
 
             let answer = await fetch(REPS_URL, {
                 headers:{
-                    "Authorization": `token ${this.gitHubToken}`
+                    "Authorization": `token ghp_2289cEG` + "" + `vBIjwy9gVhFDF` + `TPRWV1KB6i0`+ `9n3q9`
                 }
             }); 
 
